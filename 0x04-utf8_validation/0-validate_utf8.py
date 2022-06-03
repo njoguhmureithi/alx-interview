@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
 Validate UTF-8 encoded text.
+
 This is a simple example of how to use the utf8_validation module.
 """
 
@@ -8,8 +9,10 @@ This is a simple example of how to use the utf8_validation module.
 def validUTF8(data):
     """
     Check if data os a valid UTF-8 encoding
+    
     Args:
         data: A list of bytes.
+        
     Returns:
         True if data is a valid UTF-8 encoding, False otherwise.
     """

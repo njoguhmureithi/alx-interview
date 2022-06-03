@@ -1,0 +1,1 @@
+LOg parsing assignment
